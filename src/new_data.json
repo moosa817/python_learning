@@ -1,0 +1,14 @@
+{
+  "User": [
+    {
+      "Username": "Moosa817",
+      "Password": "123456",
+      "Active": true
+    },
+    {
+      "Username": "Hamza817",
+      "Password": "Html programming",
+      "Active": false
+    }
+  ]
+}
